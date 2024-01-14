@@ -296,9 +296,3 @@ int checkWall(){
 	}
 	return -1;
 }
-
-// One solution idea:
-// Have a cell portion that asks if it was visited (ie. int visited), and when (which array value)
-// If visited, and left, increase by 1
-// If at two (ie, visited twice), delete all points from that previous point and consolodate into new array
-// If the first visit,and second visit, have opposite enter and exit points, delete node.
