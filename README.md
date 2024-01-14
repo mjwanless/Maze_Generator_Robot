@@ -18,7 +18,7 @@ This project is a C/RobotC-based program designed for the EV3 platform. It simul
 To run this program, you need to have the ROBOTC environment set up for the EV3 platform. Follow these steps:
 
 - Install ROBOTC for LEGO MINDSTORMS from the official website.
-- - Connect your EV3 robot to your computer.
+- Connect your EV3 robot to your computer.
 - Open the provided .c file in the ROBOTC environment.
 
 ## 4. Usage
